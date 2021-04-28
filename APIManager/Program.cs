@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            APIsWoocommerce.PostNewVariableProducts.Woocommercepostnewproducts();
-
+            APIsWoocommerce.WoocomPostNewVariableProducts.Woocommercepostnewproducts();
+            APIsWorten.WortenPostNewVariableProducts.Wortenpostnewproducts();
         }
     }
 }
