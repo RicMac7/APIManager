@@ -23,14 +23,14 @@ namespace APIManager.APIsWorten
                 Console.WriteLine("construção completa");
                 Console.Write(Environment.NewLine);
 
-                //string path = @"C:\Users\ricardo.machado\Documents\filesjson\apiwoocommerce.json";
+                //string path = @"C:\Users\ricardo\Documents\filesjson\apiwoocommerce.json";
                 //Directory.CreateDirectory(path);
                 //File.WriteAllText(path, output);
                 Console.WriteLine("finalizada a criacao do ficheiro json");
                 System.Threading.Thread.Sleep(1000);
                 Console.Write(Environment.NewLine);
 
-                /*string xml = @"C:\Users\ricardo.machado\Documents\filesjson\";
+                /*string xml = @"C:\Users\ricardo\Documents\filesjson\";
                 Directory.CreateDirectory(xml);
                 XmlDocument doc = new XmlDocument();
                 doc.LoadXml(xml);
